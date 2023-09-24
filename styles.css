@@ -239,7 +239,7 @@ main{
     
     /* display: block; */
     padding-top: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 8%;
     
     margin: 5% 0% 0% 15%;
 
@@ -259,7 +259,7 @@ main{
     grid-auto-flow: row dense;
 
 }
-
+/* --- format for each form input --- */
 .form-item{
     height: 62px;
     margin-bottom: 1.5rem;
